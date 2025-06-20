@@ -1,0 +1,18 @@
+[
+  {
+    "name": "NordVPN CA",
+    "server": "ca1651.nordvpn.com",
+    "protocol": "TCP"
+  },
+  {
+    "name": "NordVPN US",
+    "server": "us6267.nordvpn.com",
+    "protocol": "TCP"
+  },
+  {
+    "name": "NordVPN NZ",
+    "server": "nz94.nordvpn.com",
+    "protocol": "TCP"
+  }
+]
+
